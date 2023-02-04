@@ -4,7 +4,7 @@
 ## Breakfast
 
 | MENU          | PRICE($) |
-|---------------|----------|
+|---------------|:--------:|
 | Tuna Sandwich | 3.00     |
 | Crossiant     | 1.50     |
 | Greek Yogurt  | 1.00     |
