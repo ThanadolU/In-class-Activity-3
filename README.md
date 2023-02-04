@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| PROUD | Beverages | [ProudHokori](https://github.com/ProudHokori) |
+| Proud | Beverages | [ProudHokori](https://github.com/ProudHokori) |
 

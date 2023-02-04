@@ -33,6 +33,6 @@
 * KUPay
 * LinePay 
 * AliPay
-* Cash.
+* Cash
 
 **Sorry, NO credit cards.**
