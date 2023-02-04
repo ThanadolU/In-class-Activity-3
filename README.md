@@ -26,10 +26,8 @@ Section1 | Section2 | Section3 | ...
 
 ## About Us
   
-**TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
-
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
+| Name   | Role      | Github                               |
+|:-------|-----------|--------------------------------------|
+| Au     | Breakfast | [Jeammm](https://github.com/Jeammm)  |
 | Dol       | Lunch     | [ThanadolU](https://github.com/ThanadolU)  |
 | PrAe | Dinner | [PraepechPrAe](https://github.com/PraepechPrAe) |
-
