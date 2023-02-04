@@ -30,5 +30,5 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| PrAe | Dinner | [PraepechPrAe] (https://github.com/PraepechPrAe) |
+| PrAe | Dinner | [PraepechPrAe](https://github.com/PraepechPrAe) |
 
