@@ -25,7 +25,14 @@
 | Steak with a mushroom sauce | 6.00 |
 | Grilled chicken with a baked potato | 5.50 |
 | Grilled pork with vegetables | 5.50 |
-## Night Food
+
+## Dessert
+| MENU | PRICE($) |  
+| ------------ |:----------:|
+|Cheese cake |  2.50 |
+|Ice cream | 1.50 |
+|Apple pie with cream | 2.00|
+|Cookies | 1.00|
 
 
 ## Beverages
