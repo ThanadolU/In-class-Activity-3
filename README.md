@@ -31,4 +31,4 @@ Section1 | Section2 | Section3 | ...
 | Au     | Breakfast | [Jeammm](https://github.com/Jeammm)  |
 | Dol       | Lunch     | [ThanadolU](https://github.com/ThanadolU)  |
 | PrAe | Dinner | [PraepechPrAe](https://github.com/PraepechPrAe) |
-| Fueng | Night Food | [pattarawan21](https://github.com/pattarawan21) |
+| Fueng | Dessert | [pattarawan21](https://github.com/pattarawan21) |
