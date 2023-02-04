@@ -17,9 +17,22 @@
 
 
 ## Beverages
+| MENU | PRICE($) |
+|:--------|:---------:|
+| Tea      | 1.00       |
+| Coffee                 | 1.50       |
+| Cola               | 0.75       |
+| Orange juice                | 2.00       |
 
 
 
----
 
-We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+***
+*For Payment We accept:*   
+* PromptPay
+* KUPay
+* LinePay 
+* AliPay
+* Cash.
+
+**Sorry, NO credit cards.**
