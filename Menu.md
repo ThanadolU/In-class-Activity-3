@@ -11,12 +11,12 @@
 
 
 ## Dinner
-| MENU | PRICE |
-| ------------- | ------------- |
-| Soup | 30.00 |
-| Steak with a mushroom sauce | 100.00 |
-| Grilled chicken with a baked potato | 100.00 |
-| Grilled pork with vegetables | 100.00 |
+| MENU | PRICE($) |
+|-----------|:-----------:|
+| Soup | 2.00 |
+| Steak with a mushroom sauce | 6.00 |
+| Grilled chicken with a baked potato | 5.50 |
+| Grilled pork with vegetables | 5.50 |
 ## Night Food
 
 
