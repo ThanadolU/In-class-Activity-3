@@ -5,10 +5,10 @@
 
 | MENU          | PRICE |
 |---------------|-------|
-| Tuna Sandwich | 50.00 |
-| Crossiant     | 40.00 |
-| Greek Yogurt  | 40.00 |
-| Cereal        | 40.00 |
+| Tuna Sandwich | 3.00  |
+| Crossiant     | 1.50  |
+| Greek Yogurt  | 1.00  |
+| Cereal        | 2.00  |
 
 ## Lunch 
 
