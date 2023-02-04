@@ -1,4 +1,5 @@
-# KU Cafe Menu
+# Tenducky Restaurant Menu
+***
 
 
 ## Breakfast
