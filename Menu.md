@@ -3,12 +3,15 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+    
 
 ## Lunch 
-
+|   MENU  |   PRICE($)  |
+|:--------|:---------:|
+| Pizza (pepperoni or cheese) | 5.00       |
+| Green salad                 | 2.50       |
+| Spaghetti bolognaise        | 3.00       |
+| Steak sandwich              | 3.50       |
 
 ## Dinner
 | MENU | PRICE($) |
