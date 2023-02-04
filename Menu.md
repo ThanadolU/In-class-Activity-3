@@ -6,12 +6,12 @@
     
 
 ## Lunch 
-| MENU | PRICE |
+|   MENU  |   PRICE($)  |
 |:--------|:---------:|
-| Green Curry Chicken      | 50.00       |
-| Kao Phad                 | 35.00       |
-| Pad Kaprao               | 40.00       |
-| Pad Thai                 | 45.00       |
+| Pizza (pepperoni or cheese) | 5.00       |
+| Green salad                 | 2.50       |
+| Spaghetti bolognaise        | 3.00       |
+| Steak sandwich              | 3.50       |
 
 ## Dinner
 
